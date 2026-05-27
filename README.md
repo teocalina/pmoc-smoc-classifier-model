@@ -1,12 +1,12 @@
-# PMOC-SMOC Classifier Model
+# MOC-EOM Classifier Model
 
-A machine learning pipeline for classifying different types of ovarian cancer (PMOC, SMOC) and their origins using DNA methylation data.  
+A machine learning pipeline for classifying different types of ovarian cancer (MOC, EOM) and their origins using DNA methylation data.  
 
 ## Overview
 This repository contains machine learning models designed to differentiate between:
-- Primary Mucinous Ovarian Carcinoma (PMOC)
-- Secondary Mucinous Ovarian Carcinoma (SMOC)
-- SMOC origin classification
+- Primary Mucinous Ovarian Carcinoma (MOC)
+- Extra-Ovarian Mucionous Tumors (EOM)
+- EOM origin classification
 
 The models utilize DNA methylation data and employ both Logistic Regression and Support Vector Machine (SVM) classifiers with Principal Component Analysis (PCA) for dimensionality reduction.
 
